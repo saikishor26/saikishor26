@@ -1,18 +1,3 @@
-<!--
-**saikishor26/saikishor26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <h1 align="center">Hi 👋, I'm Sai Kishor</h1>
 <h3 align="center">🚀 Full Stack Developer | MERN Enthusiast </h3>
 
@@ -43,7 +28,7 @@ Here are some ideas to get you started:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=saikishor26&theme=tokyonight" alt="GitHub Streak" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikishor26&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikishor26&layout=compact&theme=radical&v=1" alt="Top Languages" />
 </p>
 
 ---

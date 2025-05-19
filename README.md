@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 ## 📫 Connect with me
 
 <p align="left">
-<a href="https://linkedin.com/in/saikishor-pappala-32b623255/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+<a href="https://linkedin.com/in/saikishor26/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
 <a href="mailto:pappalasaikishor@gmail.com@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" /></a>
 </p>
 
